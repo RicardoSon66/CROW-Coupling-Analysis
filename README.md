@@ -4,7 +4,7 @@
 
 ![Hz 필드 (gap 0.45 μm, λ = 1549.4 nm)](./figures/field_gap0.45_1549.4nm.gif)
 
-*Hz field at λ = 1549.4 nm (upper 3 dB band edge), ring–ring gap 0.45 μm. 입력(왼쪽 아래) → 아래 링 → 위 링 → drop(오른쪽 위)으로 빛이 전달됩니다.*
+*Re{Hz} at λ = 1549.4 nm (upper 3 dB band edge), ring–ring gap 0.45 μm. 입력(왼쪽 아래) → 아래 링 → 위 링 → drop(오른쪽 위)으로 빛이 전달됩니다. 대역 경계 파장이라 두 링 모두 여기되지만 아래 링이 더 강합니다.*
 
 ### 요약
 
